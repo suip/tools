@@ -1,13 +1,13 @@
 # Best Engineer Tools
-Find high-quality, reasonable price and suitable tools for engineer.
+To find high-quality and suitable tools with reasonable prices for engineers.
 
 ### Why ?
 
-The group of software or hardware engineer use a lots of tools in the life and work. How to find those high-quality, reasonable price and suitable tools is a very energy consuming thing. So i want to build a products list to figured out this problem or simply it.
+Software or hardware engineers use a lot of tools in their daily life and working time. Finding those high-quality and suitable tools with reasonable prices is a thing which consumes a lot of energy. So I want to build a product list to figure this problem out or to simplify it.
 
 ### Tool list
 
-Wait a moment, immediately pan.
+Wait a moment, to be updated immediately.
 
 
 Created by [JobsLong](http://jobslong.com)
