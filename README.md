@@ -11,10 +11,17 @@ Software or hardware engineers use a lot of tools in their daily life and workin
 - Workbench `Todo`
     - Monitor
     - Keyboard
-    - Mouse
+    - Mouse / Trackpad
     - Earphone
     - Seat
-    - Desktop
+    - Desk
+    - Accessories
+        - Fan
+        - Cushion
+        - Wires
+        - Chargers
+        - Cleaning
+
 - Home / Living Environment `Next`
 - Travel `Next`
 - Medical / Health Equipment `Next`
