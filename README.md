@@ -1,4 +1,4 @@
-# Best Engineer Tools
+# Best engineer's tools
 To find high-quality and suitable tools with reasonable prices for engineers.
 
 ### Why ?
@@ -10,12 +10,12 @@ Software or hardware engineers use a lot of tools in their daily life and workin
 - ~~Software~~
 - Workbench `Todo`
     - Monitor
+        - Dell P2415Q `入门级` `23.8 inch` `4k` [Buy](http://accessories.ap.dell.com/sna/productdetail.aspx?c=cn&cs=cnbsd1&l=zh&s=bsd&sku=391-BBYZ) | [Apply for trial](#test)  | [Exchange](#exchange)
     - Keyboard
     - Mouse / Trackpad
-    - Earphone
-    - Seat
-    - Desk
+    - Desk / Seat
     - Accessories
+        - Earphone
         - Fan
         - Cushion
         - Wires
@@ -28,7 +28,7 @@ Software or hardware engineers use a lot of tools in their daily life and workin
 
 ## Author 
 * email:  [jobslong@stu2e.com](mailto:jobslong@stu2e.com)
-* website:  [http://jobsLong.com](http://jobslong.com).
+* website:  [http://jobslong.com](http://jobslong.com).
 
 ## Contributors
 * [SykieChen](https://github.com/SykieChen)
